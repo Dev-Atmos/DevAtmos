@@ -36,7 +36,7 @@
 
 - ✅ **PHP API Development** – [Udemy](https://www.udemy.com/certificate/UC-0da8069d-4e54-416f-a3e6-7c77849749d4/) 
 - ✅ **Git Essential Training** – [LinkedIn](https://www.linkedin.com/learning/certificates/45bffe8c5f0bff87c9b575f497606d9ee9db19b8f879689afc2de5124fb02f26?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3By0YlNanAQyWc2qMZEmyMLA%3D%3D)
-- - ✅ **Advanced PHP: Debugging Techniques - [LinkedIn](https://www.linkedin.com/learning/certificates/45bffe8c5f0bff87c9b575f497606d9ee9db19b8f879689afc2de5124fb02f26?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3By0YlNanAQyWc2qMZEmyMLA%3D%3D) 
+- ✅ **Advanced PHP: Debugging Techniques - [LinkedIn](https://www.linkedin.com/learning/certificates/45bffe8c5f0bff87c9b575f497606d9ee9db19b8f879689afc2de5124fb02f26?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3By0YlNanAQyWc2qMZEmyMLA%3D%3D) 
 
 ---
 
