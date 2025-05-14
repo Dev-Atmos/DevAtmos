@@ -1,6 +1,6 @@
 # DevAtmos
 
-# 👋 Hi there, I'm [Dipakkumar Prajapati]!
+# 👋 Hi there, I'm Dipakkumar Prajapati!
 
 🎯 A passionate PHP Developer with over **10 years of experience** in crafting scalable web applications, integrating APIs, and delivering robust backend solutions.
 
