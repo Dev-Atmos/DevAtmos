@@ -55,7 +55,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: [devatmoslab@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/dipak1991)
+- 💼 LinkedIn: [Dipakkumar Prajapati](https://linkedin.com/in/dipak1991)
 
 ---
 
