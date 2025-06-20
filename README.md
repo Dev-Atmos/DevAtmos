@@ -8,7 +8,7 @@ Welcome to my **professional development portfolio**! I’m **Dipak Prajapati**,
 
 ## 🧩 About Me
 
-Currently working at **I-Serve Systems Pvt. Ltd.**, I’m involved in **building robust web solutions**, from architecting **custom PHP modules** to integrating **third-party APIs** and ensuring smooth **front-end to back-end synchronization**.
+Currently working as PHP Developer, I’m involved in **building robust web solutions**, from architecting **custom PHP modules** to integrating **third-party APIs** and ensuring smooth **front-end to back-end synchronization**.
 
 With experience spanning **public sector automation** (Affordable Housing Mission, Gujarat), **ERP systems**, and **data analysis/reporting**, I’ve successfully contributed to:
 
@@ -57,7 +57,7 @@ Developed for **Affordable Housing Mission - Gujarat**, this ERP digitized benef
 
 ## 🧑‍💼 Career Highlights
 
-- ✔️ 3+ years at I-Serve Systems Pvt. Ltd. — Backend development, optimization, application troubleshooting
+- ✔️ 3+ years at Private Company. — Backend development, optimization, application troubleshooting
 - ✔️ 2+ years at Affordable Housing Mission, Gujarat — Automation of PMAY payment workflows using custom-built ERP
 - ✔️ Web Development & MIS Expertise — WordPress, Laravel, Data Analytics, ERP Solutions
 - ✔️ Government Sector Experience — Automation, training, and technical coordination at the **state level**
