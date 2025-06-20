@@ -1,63 +1,94 @@
-# DevAtmos
+# 👨‍💻 Dev-Atmos Portfolio
 
-# 👋 Hi there, I'm Dipakkumar Prajapati!
+Welcome to my **professional development portfolio**! I’m **Dipak Prajapati**, a **Senior PHP Developer** with **10+ years of experience** building **enterprise-grade applications**, **custom ERP systems**, **WordPress plugins**, and **API-driven solutions**. I specialize in crafting **efficient back-end architectures** and ensuring **database optimization** for scalable performance.
 
-🎯 A passionate PHP Developer with over **10 years of experience** in crafting scalable web applications, integrating APIs, and delivering robust backend solutions.
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working as **PHP Developer at I-Serve Systems Pvt. Ltd.**
-- 🛠️ Specializing in **Core PHP, Laravel, CodeIgniter, MySQL, WordPress**, and RESTful APIs.
-- 🔍 Skilled in backend optimization, debugging, and database-driven application development.
-- 📊 Experienced in **data analysis, reporting**, and ETL using **Power BI, MS Access, and SSIS**.
-- 📈 Involved in full **SDLC** with Agile/Scrum & Waterfall methodologies.
-- 📚 Always learning emerging technologies and improving clean code practices.
+🔗 [LinkedIn](https://www.linkedin.com/in/dipak1991) • 📧 devatmoslab@gmail.com • 📱 +91 9725597927
 
 ---
 
-## 🧰 Languages and Tools
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-E44D26?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+## 🧩 About Me
 
----
+Currently working at **I-Serve Systems Pvt. Ltd.**, I’m involved in **building robust web solutions**, from architecting **custom PHP modules** to integrating **third-party APIs** and ensuring smooth **front-end to back-end synchronization**.
 
-## 🧩 Certifications
+With experience spanning **public sector automation** (Affordable Housing Mission, Gujarat), **ERP systems**, and **data analysis/reporting**, I’ve successfully contributed to:
 
-- ✅ **PHP API Development** – [Udemy](https://www.udemy.com/certificate/UC-0da8069d-4e54-416f-a3e6-7c77849749d4/) 
-- ✅ **Git Essential Training** – [LinkedIn](https://www.linkedin.com/learning/certificates/45bffe8c5f0bff87c9b575f497606d9ee9db19b8f879689afc2de5124fb02f26?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3By0YlNanAQyWc2qMZEmyMLA%3D%3D)
-- ✅ **Advanced PHP: Debugging Techniques - [LinkedIn](https://www.linkedin.com/learning/certificates/45bffe8c5f0bff87c9b575f497606d9ee9db19b8f879689afc2de5124fb02f26?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3By0YlNanAQyWc2qMZEmyMLA%3D%3D) 
+- ✅ Automation of Government Payment Workflows
+- ✅ Custom WordPress ERP Plugin Architecture
+- ✅ Database Efficiency for High-Volume Transactions
+- ✅ Full SDLC (Requirement → Development → Testing → Deployment → Support)
+- ✅ Power BI / SSIS Reporting Pipelines for Data Analysis
+
+I am also adept at:
+
+- Working with **cross-functional teams** for project execution
+- Providing **technical support** and **training to stakeholders**
+- Leading **end-to-end application development**
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🔍 **Contact Form 7 Finder** | WordPress Plugin, PHP, MySQL | Finds all pages using Contact Form 7 shortcodes and lets you export the data. |
-| 🧩 **Elementor Form Finder** | WP Plugin Boilerplate, PHP | Scans Elementor-based pages for embedded Elementor forms. |
+### 🚀 WP ERP Manager
+**Enterprise-ready WordPress plugin ERP for HR & Client Management.**  
+Modular structure, MVC design, extensible with Composer autoloading for enterprise development.
 
-
-👉 [Check my repositories »](https://github.com/Dev-Atmos?tab=repositories)
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: [devatmoslab@gmail.com]
-- 💼 LinkedIn: [Dipakkumar Prajapati](https://linkedin.com/in/dipak1991)
+- 🔗 [wp-erp-manager](https://github.com/Dev-Atmos/wp-erp-manager)
+- **Technologies:** WordPress, PHP OOP, Composer, Custom Hooks/Filters
+- **Status:** ⚙️ Active Development
 
 ---
 
-> 🧠 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 📧 CF7 Finder Plugin
+**A lightweight WordPress plugin to quickly search and manage Contact Form 7 forms** from the admin dashboard. Enhances productivity for websites with multiple forms.
 
+- 🔗 [cf7-finder](https://github.com/Dev-Atmos/cf7-finder)
+- **Technologies:** WordPress, PHP OOP, Admin UI, WP_Query
+- **Status:** ✅ Completed
+
+---
+
+### 🏢 Guj_Ahm_ERP (Internal/Archived)
+Developed for **Affordable Housing Mission - Gujarat**, this ERP digitized beneficiary payment workflows and integrated **Aadhar verification**, **duplicate checks**, and **Power BI reporting**.
+
+- **Technologies:** PHP, MySQL, Power BI, SSIS
+- **Status:** 🗄️ Archived / Internal Project
+
+---
+
+## 🧑‍💼 Career Highlights
+
+- ✔️ 3+ years at I-Serve Systems Pvt. Ltd. — Backend development, optimization, application troubleshooting
+- ✔️ 2+ years at Affordable Housing Mission, Gujarat — Automation of PMAY payment workflows using custom-built ERP
+- ✔️ Web Development & MIS Expertise — WordPress, Laravel, Data Analytics, ERP Solutions
+- ✔️ Government Sector Experience — Automation, training, and technical coordination at the **state level**
+
+---
+
+## 🛠️ Tech Stack
+
+| **Backend**     | **Frontend** | **Database** | **Data & Reporting**    | **Tools**              |
+|-----------------|--------------|--------------|--------------------------|------------------------|
+| PHP (Core, OOP) | HTML/CSS     | MySQL        | Power BI, Microsoft SSIS | Git, Composer          |
+| Laravel         | Bootstrap    | MS Access    | Excel, PDF, CSV          | Postman, XAMPP/WAMP    |
+| CodeIgniter     | JavaScript   |              |                          | VS Code, Sublime Text  |
+| WordPress       | jQuery       |              |                          | cPanel, GIT Bash       |
+
+---
+
+## 🎓 Certifications
+
+- 🏅 APIs in PHP: from Basic to Advanced
+- 🏅 Git Essential Training
+- 🏅 Advanced PHP: Debugging Techniques
+
+---
+
+## 🔗 Connect with Me
+
+📫 **Email:** devatmoslab@gmail.com  
+💼 **LinkedIn:** [dipak1991](https://www.linkedin.com/in/dipak1991)  
+🐙 **GitHub:** [Dev-Atmos](https://github.com/Dev-Atmos)
+
+---
+
+> _“Driven by quality. Powered by curiosity. Focused on solutions.”_
